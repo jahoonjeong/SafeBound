@@ -1,0 +1,6 @@
+torch>=1.10.0
+numpy
+pandas
+scipy
+scikit-learn
+h5py
